@@ -8,7 +8,7 @@ body {
     background-color: #333;
     color: red;
     text-align: center;
-    padding: 20px;
+    padding: 1px;
   }
   
   .login {
@@ -90,8 +90,8 @@ body {
     font-size: 18px;
   }
 
-  .buy {
-    background-color: #28a745;
+  .compra {
+    background-color: lime;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -100,8 +100,8 @@ body {
     font-size: 16px;
   }
   
-  .buy:hover {
-    background-color: lime;
+  .compra:hover {
+    background-color: greenyellow;
   }
   
   footer {
